@@ -3,7 +3,7 @@
   "description": "Heuristic-driven exploratory testing skill with structured MCOASTER reporting. Includes FEW HICCUPPS, SFDIPOT, MCOASTER, I SLICED UP FUN, and 15+ other testing heuristics and oracles.",
   "version": "1.0.0",
   "author": {
-    "name": "Dana Ashby"
+    "name": "Dan Ashby"
   },
   "repository": "danashby/Exploratory-Testing-Skill"
 }
